@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/wandb/wandb/commit/2e10e7dd5118f56db75e43d17b959c26d357dd2a",
       "git:hexsha": "2e10e7dd5118f56db75e43d17b959c26d357dd2a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/wandb/wandb/commit/45edd2747f5141cea0a2177f1e1bd104ab824a14",
